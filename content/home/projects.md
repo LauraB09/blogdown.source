@@ -31,6 +31,10 @@ filter_default = 0
 [[filter]]
   name = "Ecology"
   tag = ".ecology"
+  
+[[filter]]
+  name = "Bioluminescence"
+  tag = ".bioluminescence"
 
 [[filter]]
   name = "Biology"
