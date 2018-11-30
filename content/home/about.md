@@ -11,6 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Biology",
+    "Scuba diving",
+    "Travelling",
+    "Reading",
     "..."
   ]
 
@@ -34,4 +37,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium. I'm in second grade and I would like to have a master in marine biology.
