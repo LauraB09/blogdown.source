@@ -3,13 +3,13 @@
 date = "2018-09-24"
 
 # Project title.
-title = "My project"
+title = "Bioluminescence"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Les différentes applications de la bioluminescence"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "poulpe.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
