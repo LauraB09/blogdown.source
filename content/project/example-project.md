@@ -108,6 +108,60 @@ Ce projet, si mené à bien, révolutionnera le style des rues ainsi que la faç
 
 c) La bioluminescence dans le milieu médical
 
+Dans le milieu médical, elle sert notamment de moyen de détection, de la tumeur au taux de plaque dentaire.
+
+•	Cancérologie : 
+
+L'imagerie en bioluminescence (IBL) est basée sur la détection de la lumière émise par l'enzyme luciférase (transfectée dans les cellules : ce qui signifie le transfert d’un gène) catalysant son substrat, la luciférine (injectée à l'animal). Cette méthode permet donc d'évaluer ou de suivre la croissance et la migration de cellules cancéreuses exprimant la luciférase. 
+
+Chez des souris, des chercheurs ont réussi à visualiser in situ (cela signifie en latin « sur place ») des tumeurs en 3 dimensions en utilisant des bactéries bioluminescentes ciblant les cellules cancéreuses. Une première qui pourrait aboutir à des applications aussi bien dans l'imagerie médicale que dans le domaine thérapeutique.
+
+mouse
+
+La souris porte donc une grosseur sur son flanc droit. Le gène lux exprimé par les bactéries est représenté sur cette image en jaune/orange. Les couleurs varient en fonction de la concentration bactérienne : plus c'est rouge et plus c'est dense.
+
+Cette technique permettrait de s’attaquer directement aux cellules cancéreuses en épargnant les cellules saines de l’organisme. Le traitement pourra alors être certainement plus efficace.
+
+Cependant, cette méthode n’est encore possible que sur des sujets comme les souris en laboratoire et n’est donc pas encore applicable aux êtres humains.
+
+Odontologie :
+
+On peut détecter la biomasse vivant sur la plaque dentaire. Les caries dentaires résultent d'une interaction des micro-organismes de la plaque sur la surface de la dent avec les glucides qui fermentent (il est intéressant d'identifier et de quantifier les composants bactériens).
+
+•	Virologie : 
+
+Le virus de la nécrose hématopoïétique infectieuse vNHI-LUC possède une cassette d’expression additionnelle codant pour la luciférase sous le contrôle des séquences de régulation du virus vNHI. 
+
+Exemple : Les poissons ont été infectés avec le virus vNHI-LUC. Les symptômes de cette maladie se traduisent par des hémorragies généralisées et des nécroses. Après 4 jours, les poissons sont transférés dans un bain contenant le substrat de la luciférase. Après anesthésie générale, ils sont soumis au système d’imagerie qui permet, grâce à une caméra très sensible, de capter la lumière émise par la réaction catalysée par la luciférase. 
+
+Un traitement d’image permettant de calibrer la quantité de lumière selon un gradient de couleur est utilisé (la lumière capturée par la caméra est due uniquement à la réaction catalysée par la luciférase apportée par le virus vNHI-LUC.)
+
+fish
+
+Comme dans la cancérologie, la bioluminescence permet la détection et le suivi de la propagation d’une maladie par l’émission de photons. 
+
+
+=> Il existe de multiples domaines comme l’immunologie, la dermatologie,… qui commencent à utiliser la bioluminescence comme moyen de détection car elle est facilement visible à l’aide d’un appareil sensible à cette lumière.  
+
+ d) En conclusion 
+
+La bioluminescence offre une multitude de possibilités pour améliorer notre quotidien. Ses fonctions sont nombreuses et surtout personnalisables. La technologie que nous possédons aujourd’hui nous permet d’étendre la bioluminescence au-delà de ce que l’on peut imaginer. En l’imaginant comme notre futur moyen d’éclairage, nous ouvrons la porte à encore d’autres possibilités pour améliorer la situation concernant le réchauffement climatique. 
+
+En tant que source lumineuse la bioluminescence possède de nnombreux avantages :
+
+avatange 1 et2
+
+De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel : 
+
+19 percent 
+
+Il en est de même dans le milieu médical : la capacité de transfecter le gène de la bioluminescence à des cellules cancéreuses ou encore grâce à de l’ATP permet une avancée dans le traitement de certaines maladies.
+
+En conclusion, la bioluminescence possède de nombreuses applications qui pourront certainement devenir très utiles dans le futur. Des projets sont déjà en cours afin de rendre possible cet avenir où la bioluminescence serait présente dans de nombreux domaines. Donc nous pouvons dire que les bactéries capable de bioluminescentes peuvent être un atout à la surface.
+
+
+
+
 
 
 
