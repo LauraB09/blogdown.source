@@ -34,7 +34,7 @@ caption = "Image credit: **Trevor Cole** on Unsplash"
 la bioluminescence a plusieurs fonctions, utilités. Il serait intéressant de pouvoir l’exploiter à notre profit. Nous vivons une période où les ressources de la Terre s’amoindrissent. Il arrivera un jour où nous manquerons de pétrole et d’autres éléments qui nous sont fort utiles dans notre vie quotidienne. Nous devrons nous rabattre sur les énergies vertes dites renouvelables telles que les éoliennes,  les panneaux solaires,… La bioluminescence pourrait alors devenir utile ici sur la terre ferme. Malgré toutes ses fonctionnalités, si la bioluminescence fait bien toujours une chose, c’est d’émettre de la lumière ! Certes, elle ne fournit que de l’énergie lumineuse et ne fonctionne pas comme les panneaux solaires ou les éoliennes mais on pourrait exploiter la bioluminescence comme source de lumière. Néanmoins, pouvons-nous nous rabattre sur cette hypothèse selon laquelle la bioluminescence pourrait à l’avenir nous servir de source lumineuse ? 
     Plusieurs images prouvent que l’on y a déjà pensé :
     
-![*luminescent trees*](static/img/luminescent trees)
+![*luminescent trees*](static/img/Luminescent trees.jpg)
     
 Nous pouvons voir sur cette image que ce sont les arbres qui sont bioluminescents. Cela signifierait que ceux-ci, une fois plongés dans le noir, sont capables de bioluminescence. Une telle chose n’a pas encore vu le jour mais serait-il possible grâce à une bactérie de transmettre le gène de la bioluminescence à un arbre ou encore à d’autres plantes ?
 Pour cela, rien de plus simple en théorie. Il faut d’abord utiliser un outil classique en génétique végétale : une bactérie appelée Agrobactérium. Cette dernière a en effet une propriété précieuse pour les biologistes : elle est capable de transférer une partie de son ADN à l'intérieur de la plante. Dans la nature, l'ADN bactérien qui entre ainsi dans la cellule végétale a pour effet de provoquer chez elle des tumeurs appelées galles.
@@ -42,7 +42,7 @@ Pour cela, rien de plus simple en théorie. Il faut d’abord utiliser un outil 
 *Une tumeur galle ?*
 *On appelle galle (ou cécidie) une excroissance tumorale produite sur les tiges, feuilles ou fruits de certains végétaux, suite à des piqûres d'animaux parasites. Certaines galles peuvent aussi être le fait de champignons, de nématodes ou de bactéries (Agrobacterium sur les rhizomes).*
 
-![*galle*](static/img/galle)
+![*galle*](static/img/galle.jpg)
 
 •	Méthode afin de parvenir à un arbre/plante bioluminescent : 
 
@@ -57,7 +57,7 @@ Malheureusement, le gène que la plante exprime suite au transfert est le gène 
 
 -Schéma récapitulatif : 
 
-![*transfert galle*](static/img/transfert_galle)
+![*transfert galle*](static/img/transfert_galle.png)
 
 - En laboratoire
 
@@ -68,7 +68,7 @@ Il ne reste plus alors qu'à mettre le végétal en contact avec les bactéries 
 
 Schéma récapitulatif :
 
-![*transfert bio*](static/img/transfert_bio)
+![*transfert bio*](static/img/transfert_bio.png)
 
 En théorie, l’idée est fantastique.
 
@@ -88,7 +88,7 @@ On ne connaît pas non plus les effets à long terme de ces organismes génétiq
 
 Malgré tout, des chercheurs sont tout de même parvenus à obtenir une plante bioluminescente : 
 
-![*glowing plant*](static/img/glowing_plant)
+![*glowing plant*](static/img/glowing_plant.png)
 
 C’est une plante génétiquement modifiée tout droit sortie du projet « Glowing Plant » d’Antony Evans, un entrepreneur basé à San Francisco en Amérique. 
 
@@ -100,7 +100,9 @@ Le projet Glowee a pensé à tout cela. Il étudie actuellement ces différents 
 
 Voici quelques images se trouvant sur leur site : http://www.glowee.eu/
 
-ajouter glowee
+![*glowee1*](static/img/glowee1.png)
+![*glowee2*](static/img/glowee2.png)
+![*glowee3*](static/img/glowee3.png)
 
 Toutes ces images sont encore à l’état de projet. Même si elles semblent idylliques, il se pourrait bien que ce soit notre futur mode d’éclairage l’extérieur. 
 
@@ -116,7 +118,7 @@ L'imagerie en bioluminescence (IBL) est basée sur la détection de la lumière 
 
 Chez des souris, des chercheurs ont réussi à visualiser in situ (cela signifie en latin « sur place ») des tumeurs en 3 dimensions en utilisant des bactéries bioluminescentes ciblant les cellules cancéreuses. Une première qui pourrait aboutir à des applications aussi bien dans l'imagerie médicale que dans le domaine thérapeutique.
 
-mouse
+![*mouse*](static/img/mouse.jpg)
 
 La souris porte donc une grosseur sur son flanc droit. Le gène lux exprimé par les bactéries est représenté sur cette image en jaune/orange. Les couleurs varient en fonction de la concentration bactérienne : plus c'est rouge et plus c'est dense.
 
@@ -136,7 +138,7 @@ Exemple : Les poissons ont été infectés avec le virus vNHI-LUC. Les symptôme
 
 Un traitement d’image permettant de calibrer la quantité de lumière selon un gradient de couleur est utilisé (la lumière capturée par la caméra est due uniquement à la réaction catalysée par la luciférase apportée par le virus vNHI-LUC.)
 
-fish
+![*fish*](static/img/fish.png)
 
 Comme dans la cancérologie, la bioluminescence permet la détection et le suivi de la propagation d’une maladie par l’émission de photons. 
 
@@ -149,7 +151,8 @@ La bioluminescence offre une multitude de possibilités pour améliorer notre qu
 
 En tant que source lumineuse la bioluminescence possède de nnombreux avantages :
 
-avatange 1 et2
+![*avantage 1*](static/img/avantage 1.png)
+![*avantage 2 *](static/img/avantage 2.png)
 
 De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel : 
 
