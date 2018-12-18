@@ -137,7 +137,7 @@ Après avoir reçu l'ordre d’un auto-inducteur, les bactéries se mettent alor
 
 Schéma récapitulatif :
 
-![*récapitulatif2](static/img/récapitulatif2.png)
+![*récapitulatif2](static/img/récapitulatif2_bis.png)
 
 Ce  phénomène  est  uniquement  connu  chez  les  animaux  marins  comme  les cténophores,  les  cnidaires, les vers, les mollusques, les échinodermes et les poissons. Il semble que ce soit le type de bioluminescence le plus répandu du règne animal. Certaines  espèces  produisent  de  la  lumière  continue  dont  l’intensité peut  être  neutralisée  ou  modulée  au  moyen  de  diverses  structures  spécialisées.  Les  organes  lumineux  sont  généralement  reliés au système nerveux, ce qui permet à l’animal de contrôler l’émission lumineuse. Chez  les  bactéries,  l’expression des  gènes  liés  à  la  bioluminescence  est  contrôlée  par  le lux opéron (contrôle la production de lumière).
 
