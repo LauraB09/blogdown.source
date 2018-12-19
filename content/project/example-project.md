@@ -57,7 +57,7 @@ Malheureusement, le gène que la plante exprime suite au transfert est le gène 
 
 -Schéma récapitulatif : 
 
-![*transfert galle*](../..//img/transfert_galle.png)
+![*transfert galle*](../../img/transfert_galle.png)
 
 - En laboratoire
 
@@ -68,7 +68,7 @@ Il ne reste plus alors qu'à mettre le végétal en contact avec les bactéries 
 
 Schéma récapitulatif :
 
-![*transfert bio*](../..//img/transfert_bio.png)
+![*transfert bio*](../../img/transfert_bio.png)
 
 En théorie, l’idée est fantastique.
 
@@ -88,7 +88,7 @@ On ne connaît pas non plus les effets à long terme de ces organismes génétiq
 
 Malgré tout, des chercheurs sont tout de même parvenus à obtenir une plante bioluminescente : 
 
-![*glowing plant*](../..//img/glowing_plant.jpg)
+![*glowing plant*](../../img/glowing_plant.jpg)
 
 C’est une plante génétiquement modifiée tout droit sortie du projet « Glowing Plant » d’Antony Evans, un entrepreneur basé à San Francisco en Amérique. 
 
@@ -100,11 +100,11 @@ Le projet Glowee a pensé à tout cela. Il étudie actuellement ces différents 
 
 Voici quelques images se trouvant sur leur site : [Site de Glowee project](http://www.glowee.eu/)
 
-![*glowee1*](../..//img/glowee1.png)
+![*glowee1*](../../img/glowee1.png)
 
-![*glowee2*](../..//img/glowee2.png)
+![*glowee2*](../../img/glowee2.png)
 
-![*glowee3*](../..//img/glowee3.png)
+![*glowee3*](../../img/glowee3.png)
 
 Toutes ces images sont encore à l’état de projet. Même si elles semblent idylliques, il se pourrait bien que ce soit notre futur mode d’éclairage l’extérieur. 
 
@@ -120,7 +120,7 @@ L'imagerie en bioluminescence (IBL) est basée sur la détection de la lumière 
 
 Chez des souris, des chercheurs ont réussi à visualiser in situ (cela signifie en latin « sur place ») des tumeurs en 3 dimensions en utilisant des bactéries bioluminescentes ciblant les cellules cancéreuses. Une première qui pourrait aboutir à des applications aussi bien dans l'imagerie médicale que dans le domaine thérapeutique.
 
-![*mouse*](../..//img/mouse.jpg)
+![*mouse*](../../img/mouse.jpg)
 
 La souris porte donc une grosseur sur son flanc droit. Le gène lux exprimé par les bactéries est représenté sur cette image en jaune/orange. Les couleurs varient en fonction de la concentration bactérienne : plus c'est rouge et plus c'est dense.
 
@@ -140,7 +140,7 @@ Exemple : Les poissons ont été infectés avec le virus vNHI-LUC. Les symptôme
 
 Un traitement d’image permettant de calibrer la quantité de lumière selon un gradient de couleur est utilisé (la lumière capturée par la caméra est due uniquement à la réaction catalysée par la luciférase apportée par le virus vNHI-LUC.)
 
-![*fish*](../..//img/fish.png)
+![*fish*](../../img/fish.png)
 
 Comme dans la cancérologie, la bioluminescence permet la détection et le suivi de la propagation d’une maladie par l’émission de photons. 
 
@@ -153,14 +153,14 @@ La bioluminescence offre une multitude de possibilités pour améliorer notre qu
 
 En tant que source lumineuse la bioluminescence possède de nnombreux avantages :
 
-![*avantage 1*](../..//img/avantage1.png)
-![*avantage 2 *](../..//img/avantage2.png)
+![*avantage 1*](../../img/avantage1.png)
+![*avantage 2 *](../../img/avantage2.png)
 
 
 
 De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel : 
 
-![*19*](../..//img/19%percent.png)
+![*19*](../../img/19%percent.png)
 
 Il en est de même dans le milieu médical : la capacité de transfecter le gène de la bioluminescence à des cellules cancéreuses ou encore grâce à de l’ATP permet une avancée dans le traitement de certaines maladies.
 
