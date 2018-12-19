@@ -29,7 +29,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 On définit une lumière froide ou chaude en fonction de la couleur de cette source lumineuse. 
 
-![*Lumière froide*](http://localhost:8787/files/shared/projects/blogdown.source/static/img/cold_light.jpg)
+![*Lumière froide*](../../img/cold_light.jpg)
 
 La lumière commence à être considérée froide quand elle vire au bleu.
 
@@ -108,7 +108,7 @@ Réaction simplifiée: (Luciférine + ATP) + (Luciférase + O²) => Oxyluciféri
 
 Schéma récapitulati : 
 
-![*récapitulatif*](http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif.png)
+![*récapitulatif*](../../img/recapitulatif.png)
 
 La majorité des émissions lumineuses marines appartiennent au spectre lumineux du bleu et du vert, les longueurs d'onde qui peuvent être facilement observées à  travers l'eau. Plus rarement, certaines espèces émettent dans le rouge ou dans l'infrarouge.
 
@@ -137,7 +137,7 @@ Après avoir reçu l'ordre d’un auto-inducteur, les bactéries se mettent alor
 
 Schéma récapitulatif :
 
-![*récapitulatif2](http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif2_bis.png)
+![*récapitulatif2](../../img/recapitulatif_bis.png)
 
 Ce  phénomène  est  uniquement  connu  chez  les  animaux  marins  comme  les cténophores,  les  cnidaires, les vers, les mollusques, les échinodermes et les poissons. Il semble que ce soit le type de bioluminescence le plus répandu du règne animal. Certaines  espèces  produisent  de  la  lumière  continue  dont  l’intensité peut  être  neutralisée  ou  modulée  au  moyen  de  diverses  structures  spécialisées.  Les  organes  lumineux  sont  généralement  reliés au système nerveux, ce qui permet à l’animal de contrôler l’émission lumineuse. Chez  les  bactéries,  l’expression des  gènes  liés  à  la  bioluminescence  est  contrôlée  par  le lux opéron (contrôle la production de lumière).
 
