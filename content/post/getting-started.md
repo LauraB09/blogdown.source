@@ -29,7 +29,7 @@ La bioluminescence est la production et l’émission de lumière froide par cer
 
 On définit une lumière froide ou chaude en fonction de la couleur de cette source lumineuse. 
 
-![*Lumière froide*](static/img/cold_light.jpg)
+![*Lumière froide*](http://localhost:8787/files/shared/projects/blogdown.source/static/img/cold_light.jpg)
 
 La lumière commence à être considérée froide quand elle vire au bleu.
 
@@ -66,7 +66,7 @@ Quoiqu’étrange, des poissons utilisent la bioluminescence afin de se camoufle
 
 Exemple : Il existe une espèce de calamar qui, en dormant la journée, récupère la lumière émise par le soleil et ensuite celle de la lune et des étoiles pour activer la bioluminescence des colonies de bactéries se trouvant dans ses lobes sur chacun de ses côtés. La nuit, il relâche les bactéries qui l’entourent. Elles effacent son ombre et il peut ainsi ne pas être détecté. (Vidéo de Bonnie Bassler
 
-https://www.youtube.com/watch?v=KXWurAmtf78&list=PLkQqhJGfvcWOgDxz430dcs23KLgyZbtFh#t=489.3990602)
+[Youtube](https://www.youtube.com/watch?v=KXWurAmtf78&list=PLkQqhJGfvcWOgDxz430dcs23KLgyZbtFh#t=489.3990602)
 
   c. L’attraction des proies :
   
@@ -108,7 +108,7 @@ Réaction simplifiée: (Luciférine + ATP) + (Luciférase + O²) => Oxyluciféri
 
 Schéma récapitulati : 
 
-![*récapitulatif*](static/img/récapitulatif.png)
+![*récapitulatif*](http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif.png)
 
 La majorité des émissions lumineuses marines appartiennent au spectre lumineux du bleu et du vert, les longueurs d'onde qui peuvent être facilement observées à  travers l'eau. Plus rarement, certaines espèces émettent dans le rouge ou dans l'infrarouge.
 
@@ -137,7 +137,7 @@ Après avoir reçu l'ordre d’un auto-inducteur, les bactéries se mettent alor
 
 Schéma récapitulatif :
 
-![*récapitulatif2](static/img/récapitulatif2_bis.png)
+![*récapitulatif2](http://localhost:8787/files/shared/projects/blogdown.source/static/img/r%C3%A9capitulatif2_bis.png)
 
 Ce  phénomène  est  uniquement  connu  chez  les  animaux  marins  comme  les cténophores,  les  cnidaires, les vers, les mollusques, les échinodermes et les poissons. Il semble que ce soit le type de bioluminescence le plus répandu du règne animal. Certaines  espèces  produisent  de  la  lumière  continue  dont  l’intensité peut  être  neutralisée  ou  modulée  au  moyen  de  diverses  structures  spécialisées.  Les  organes  lumineux  sont  généralement  reliés au système nerveux, ce qui permet à l’animal de contrôler l’émission lumineuse. Chez  les  bactéries,  l’expression des  gènes  liés  à  la  bioluminescence  est  contrôlée  par  le lux opéron (contrôle la production de lumière).
 
