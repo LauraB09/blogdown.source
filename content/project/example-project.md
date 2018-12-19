@@ -153,14 +153,14 @@ La bioluminescence offre une multitude de possibilités pour améliorer notre qu
 
 En tant que source lumineuse la bioluminescence possède de nnombreux avantages :
 
-![*avantage 1*](../../img/avantage1.png)
-![*avantage 2 *](../../img/avantage2.png)
+![*avantage 1*](../../img/avantage.png)
+![*avantage 2 *](../../img/avantage_bis.png)
 
 
 
 De plus, elle diminuerait de 19% la pollution lumineuse. Voici une image qui encourage le développement de la bioluminescence comme éclairage urbain en exposant les inconvénients de l’éclairage actuel : 
 
-![*19*](../../img/19%percent.png)
+![*19*](../../img/dix_neuf.png)
 
 Il en est de même dans le milieu médical : la capacité de transfecter le gène de la bioluminescence à des cellules cancéreuses ou encore grâce à de l’ATP permet une avancée dans le traitement de certaines maladies.
 
